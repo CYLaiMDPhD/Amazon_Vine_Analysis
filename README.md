@@ -44,10 +44,10 @@ Based on our basic analysis above, there does not appear to be an overt positivi
 
 **Figure 3: Total Vine Reviews by Star Rating for Kitchen Products**
  
-![VineStar.png](/Images/Vine.png)
+![VineStar.png](/Images/VineStar.png)
 
 
 **Figure 4: Total Non-Vine Reviews by Star Rating for Kitchen Products**
 
-![NoVineStar.png](/Images/NoVine.png)
+![NoVineStar.png](/Images/NoVineStar.png)
 

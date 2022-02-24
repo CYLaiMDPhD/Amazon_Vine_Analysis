@@ -2,7 +2,7 @@
 
 *Note: This repository was created to fulfill an assignment (Module 16  Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on module instructions and the grading rubric.*
 
-*Module exercises include:*
+*Module exercises included:*
 - *Introduction to MapReduce*
 - *Introduction to Spark*
 - *Installation and use of PySpark on Google servers using Google Collab*
@@ -21,7 +21,9 @@
 
 This report presents a very basic analysis of a subset of Amazon Vine reviews to demonstrate use of the AWS RDS service and PySpark. Kitchen product reviews were analyzed for bias for 5 star ratings between Vine program reviewers and regular reviewers. Although Vine reviewers are not paid, they do recieve free products for review, which may subconsciously influence their reviews.
 
-**Data Source:** Amazon Vine kitchen products reviews
+**Data Source:** 
+
+Amazon Vine kitchen products reviews
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Kitchen_v1_00.tsv.gz
 
 ---

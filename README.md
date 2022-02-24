@@ -19,7 +19,7 @@
 
 ## Overview
 
-This report presents a very basic analysis of a subset of Amazon Vine reviews to demonstrate use of the AWS RDS service and PySpark. Kitchen product reviews were analyzed for bias for 5 star ratings between Vine program reviewers and regular reviewers. Although Vine reviewers are not paid, they do recieve free products for review, which may subconsciously influence their reviews.
+This report presents a very basic analysis of a subset of Amazon Vine reviews to demonstrate use of the AWS RDS service and PySpark. Kitchen product reviews were analyzed for bias for 5 star ratings between Vine program reviewers and regular reviewers. Although Vine reviewers are not paid, they do recieve free products for review, which may subconsciously influence their opinions.
 
 **Data Source:** 
 

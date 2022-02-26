@@ -23,8 +23,9 @@ This report presents a very basic analysis of a subset of Amazon Vine reviews to
 
 **Data Source:** 
 
-Amazon Vine kitchen products reviews
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Kitchen_v1_00.tsv.gz
+Amazon Vine kitchen products reviews (automatic download)
+
+(https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Kitchen_v1_00.tsv.gz)
 
 ---
 
